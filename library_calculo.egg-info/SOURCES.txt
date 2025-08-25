@@ -1,6 +1,0 @@
-README.md
-setup.py
-library_calculo.egg-info/PKG-INFO
-library_calculo.egg-info/SOURCES.txt
-library_calculo.egg-info/dependency_links.txt
-library_calculo.egg-info/top_level.txt
