@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: library_calculo
+Version: 0.0.1
+Summary: Biblioteca para realização de calulos básicos
+Author: Yhago Felipe
+Author-email: yhago.felipe.teles@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
