@@ -9,3 +9,6 @@ def multi(a, b):
 
 def divisao(a,b):
     return a // b
+
+def pottencia(a,b):
+    return a**b
