@@ -12,3 +12,9 @@ def divisao(a,b):
 
 def pottencia(a,b):
     return a**b
+
+
+
+
+def soma_lista(*args):
+    return sum(args)

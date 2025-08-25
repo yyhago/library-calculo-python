@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="library_calculo",
-    version="0.1.0",
+    version="0.1.1",
     description="Biblioteca para realização de calulos básicos",
     author="Yhago Felipe",
     author_email="yhago.felipe.teles@gmail.com",
